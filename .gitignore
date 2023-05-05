@@ -1,4 +1,9 @@
+#This is a comment
+
 new-file.txt
 
+#Ignore all files in the bin directory
 bin/
-*.dll
+
+#Ignore all .tmp files
+*.tmp
